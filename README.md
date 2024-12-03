@@ -1,8 +1,8 @@
-# Employee Scheduling
+# Calendar Planner
 
 Terms & Conditions
 
-By downloading, installing, and/or using Employee Scheduling App, you acknowledge that you have read, understood, and agree to the following Terms of Use:
+By downloading, installing, and/or using Calendar Planner App, you acknowledge that you have read, understood, and agree to the following Terms of Use:
 
 1. To use some of the app's features, you don't need to create an account. You must yourself remember your itune account information. If you do not remember your account information or the information is wrong, you will not receive support when problems occur.
 
